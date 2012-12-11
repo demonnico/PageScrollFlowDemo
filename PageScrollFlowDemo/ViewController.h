@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "UIPageFlowView.h"
 @interface ViewController : UIViewController
 
 @end

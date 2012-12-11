@@ -18,6 +18,15 @@
 		640671361675AD5000852E1D /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 640671351675AD5000852E1D /* Default-568h@2x.png */; };
 		640671391675AD5000852E1D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 640671381675AD5000852E1D /* ViewController.m */; };
 		6406713C1675AD5000852E1D /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6406713A1675AD5000852E1D /* ViewController.xib */; };
+		6406714A1675AD6100852E1D /* 0.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 640671421675AD6100852E1D /* 0.tiff */; };
+		6406714B1675AD6100852E1D /* 1.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 640671431675AD6100852E1D /* 1.tiff */; };
+		6406714C1675AD6100852E1D /* 2.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 640671441675AD6100852E1D /* 2.tiff */; };
+		6406714D1675AD6100852E1D /* 3.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 640671451675AD6100852E1D /* 3.tiff */; };
+		6406714E1675AD6100852E1D /* 4.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 640671461675AD6100852E1D /* 4.tiff */; };
+		6406714F1675AD6100852E1D /* 5.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 640671471675AD6100852E1D /* 5.tiff */; };
+		640671501675AD6100852E1D /* 6.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 640671481675AD6100852E1D /* 6.tiff */; };
+		640671511675AD6100852E1D /* 7.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 640671491675AD6100852E1D /* 7.tiff */; };
+		640671541675AD8900852E1D /* UIPageFlowView.m in Sources */ = {isa = PBXBuildFile; fileRef = 640671531675AD8900852E1D /* UIPageFlowView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +46,16 @@
 		640671371675AD5000852E1D /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		640671381675AD5000852E1D /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		6406713B1675AD5000852E1D /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		640671421675AD6100852E1D /* 0.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = 0.tiff; sourceTree = "<group>"; };
+		640671431675AD6100852E1D /* 1.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = 1.tiff; sourceTree = "<group>"; };
+		640671441675AD6100852E1D /* 2.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = 2.tiff; sourceTree = "<group>"; };
+		640671451675AD6100852E1D /* 3.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = 3.tiff; sourceTree = "<group>"; };
+		640671461675AD6100852E1D /* 4.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = 4.tiff; sourceTree = "<group>"; };
+		640671471675AD6100852E1D /* 5.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = 5.tiff; sourceTree = "<group>"; };
+		640671481675AD6100852E1D /* 6.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = 6.tiff; sourceTree = "<group>"; };
+		640671491675AD6100852E1D /* 7.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = 7.tiff; sourceTree = "<group>"; };
+		640671521675AD8900852E1D /* UIPageFlowView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIPageFlowView.h; sourceTree = "<group>"; };
+		640671531675AD8900852E1D /* UIPageFlowView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIPageFlowView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,7 +106,17 @@
 				6406712F1675AD5000852E1D /* AppDelegate.m */,
 				640671371675AD5000852E1D /* ViewController.h */,
 				640671381675AD5000852E1D /* ViewController.m */,
+				640671521675AD8900852E1D /* UIPageFlowView.h */,
+				640671531675AD8900852E1D /* UIPageFlowView.m */,
 				6406713A1675AD5000852E1D /* ViewController.xib */,
+				640671421675AD6100852E1D /* 0.tiff */,
+				640671431675AD6100852E1D /* 1.tiff */,
+				640671441675AD6100852E1D /* 2.tiff */,
+				640671451675AD6100852E1D /* 3.tiff */,
+				640671461675AD6100852E1D /* 4.tiff */,
+				640671471675AD6100852E1D /* 5.tiff */,
+				640671481675AD6100852E1D /* 6.tiff */,
+				640671491675AD6100852E1D /* 7.tiff */,
 				640671261675AD5000852E1D /* Supporting Files */,
 			);
 			path = PageScrollFlowDemo;
@@ -163,6 +192,14 @@
 				640671341675AD5000852E1D /* Default@2x.png in Resources */,
 				640671361675AD5000852E1D /* Default-568h@2x.png in Resources */,
 				6406713C1675AD5000852E1D /* ViewController.xib in Resources */,
+				6406714A1675AD6100852E1D /* 0.tiff in Resources */,
+				6406714B1675AD6100852E1D /* 1.tiff in Resources */,
+				6406714C1675AD6100852E1D /* 2.tiff in Resources */,
+				6406714D1675AD6100852E1D /* 3.tiff in Resources */,
+				6406714E1675AD6100852E1D /* 4.tiff in Resources */,
+				6406714F1675AD6100852E1D /* 5.tiff in Resources */,
+				640671501675AD6100852E1D /* 6.tiff in Resources */,
+				640671511675AD6100852E1D /* 7.tiff in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,6 +213,7 @@
 				6406712C1675AD5000852E1D /* main.m in Sources */,
 				640671301675AD5000852E1D /* AppDelegate.m in Sources */,
 				640671391675AD5000852E1D /* ViewController.m in Sources */,
+				640671541675AD8900852E1D /* UIPageFlowView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
